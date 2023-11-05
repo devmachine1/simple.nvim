@@ -18,15 +18,15 @@ Paq and ripgrep cant be installed with a package manager, look at their respecti
 
 # How do I install the config?
 
-## Linux
+### Linux
 
 download the repository as a zip file and extract it to `~/.config/nvim`
 
-## Windows
+### Windows
 
 download the repository as a zip file and extract it to `C:\Users\[your username]\AppData\Local\nvim`
 
-## Final Step
+### Final Step
 
 regardless of the OS now you just need to run the command `:PaqInstall` in neovim
 
