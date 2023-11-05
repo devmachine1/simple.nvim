@@ -32,6 +32,12 @@ regardless of the OS now you just need to run the command `:PaqInstall` in neovi
 
 # Keybinds
 
+<A-... = Alt \
+<C-... = Ctrl \
+<S-... = Shift \
+<TAB-... = tab \
+<leader>... = \\ \
+
 | Keybinds  	| Use                   	|
 |-----------	|-----------------------	|
 | \<A-t\>     	| New Tab               	|
