@@ -34,15 +34,15 @@ regardless of the OS now you just need to run the command `:PaqInstall` in neovi
 
 | Keybinds  	| Use                   	|
 |-----------	|-----------------------	|
-| <A-t>     	| New Tab               	|
-| <A-z>     	| Close Tab             	|
-| <A-1>     	| Previous Tab          	|
-| <A-2>     	| Next Tab              	|
-| <A-m>     	| Terminal in a new Tab 	|
-| <A-f>     	| Toggle File Manager   	|
+| \<A-t\>     	| New Tab               	|
+| \<A-z\>     	| Close Tab             	|
+| \<A-1\>     	| Previous Tab          	|
+| \<A-2\>     	| Next Tab              	|
+| \<A-m\>     	| Terminal in a new Tab 	|
+| \<A-f\>     	| Toggle File Manager   	|
 | K         	| Hover over Symbol     	|
-| <C-Space> 	| Open Autocompletion   	|
-| <CR>      	| Select Autocompletion 	|
+| \<C-Space\> 	| Open Autocompletion   	|
+| \<CR\>      	| Select Autocompletion 	|
 | \<S-TAB\>    | Browse previous autocompletion |
 | \<TAB\>      | Browse next autocompletion     |
 | \<leader\>.  | Open code actions              |
