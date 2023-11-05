@@ -13,7 +13,7 @@ a simple and easily understandable neovim config
 
 # How do I install the Prerequisites?
 
-use your linux distributions package manager or if your on windows use [Scoop](https://scoop.sh)
+use your linux distributions package manager or if your on windows use [Scoop](https://scoop.sh).
 Paq and ripgrep cant be installed with a package manager, look at their respective github pages on how to install them
 
 # How do I install the config?
