@@ -1,5 +1,5 @@
 # simple.nvim
-## PLEASE FINISH THE VIMTUTOR BY WRITING `:Tutor` WRITE AFTER RUNNING NEOVIM OR WATCH A TUTORIAL ON HOW TO USE IT 
+## PLEASE FINISH THE VIMTUTOR BY WRITING `:Tutor` RIGHT AFTER RUNNING NEOVIM OR WATCH A TUTORIAL ON HOW TO USE IT 
 
 a simple and easily understandable neovim config
 ![](https://github.com/devmachine1/simple.nvim/blob/f9bc3d3ab42d0e6033bfcfe3473f6a22abb2ec3b/example.png)
