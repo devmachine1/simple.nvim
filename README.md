@@ -36,7 +36,7 @@ regardless of the OS now you just need to run the command `:PaqInstall` in neovi
 <C-... = Ctrl \
 <S-... = Shift \
 <TAB-... = tab \
-<leader>... = \\ \
+\<leader\>... = \ \
 
 | Keybinds  	| Use                   	|
 |-----------	|-----------------------	|
