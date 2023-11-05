@@ -59,3 +59,6 @@ regardless of the OS now you just need to run the command `:PaqInstall` in neovi
 | \<C-B\>      | Open buffer picker             |
 | \<C-F\>      | Open project search            |
 | \<C-P\>      | Open file picker               |
+
+# Credits
+coc-config.lua from [quick.nvim](https://github.com/albingroen/quick.nvim/blob/main/lua/coc-config.lua)
