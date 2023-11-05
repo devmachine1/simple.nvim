@@ -7,7 +7,7 @@ a simple and easily understandable neovim config
 # Prerequisites
 * [Paq](https://github.com/savq/paq-nvim)
 * Neovim 0.9.0+
-* a Nerd Font (for ex. Hack)
+* [a Nerd Font](https://www.nerdfonts.com/) (for ex. Hack)
 * GCC
 * [ripgrep](https://github.com/BurntSushi/ripgrep)
 
