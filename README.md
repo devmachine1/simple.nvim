@@ -29,3 +29,27 @@ download the repository as a zip file and extract it to `C:\Users\[your username
 ## Final Step
 
 regardless of the OS now you just need to run the command `:PaqInstall` in neovim
+
+# Keybinds
+
+| Keybinds  	| Use                   	|
+|-----------	|-----------------------	|
+| <A-t>     	| New Tab               	|
+| <A-z>     	| Close Tab             	|
+| <A-1>     	| Previous Tab          	|
+| <A-2>     	| Next Tab              	|
+| <A-m>     	| Terminal in a new Tab 	|
+| <A-f>     	| Toggle File Manager   	|
+| K         	| Hover over Symbol     	|
+| <C-Space> 	| Open Autocompletion   	|
+| <CR>      	| Select Autocompletion 	|
+| \<S-TAB\>    | Browse previous autocompletion |
+| \<TAB\>      | Browse next autocompletion     |
+| \<leader\>.  | Open code actions              |
+| \<leader\>f  | Format file with prettier      |
+| \<leader\>l  | Execute code autofix           |
+| \<leader\>rn | Rename symbol                  |
+| gd           | Go to definition               |
+| \<C-B\>      | Open buffer picker             |
+| \<C-F\>      | Open project search            |
+| \<C-P\>      | Open file picker               |
